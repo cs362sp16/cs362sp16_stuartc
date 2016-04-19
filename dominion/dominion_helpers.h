@@ -12,4 +12,10 @@ int getCost(int cardNumber);
 int cardEffect(int card, int choice1, int choice2, int choice3, 
 	       struct gameState *state, int handPos, int *bonus);
 
+int village_effect(struct gameState *state,int currentPlayer,int handPos);	
+int remodel_effect(struct gameState *state,int choice,int choice2,int player,int handPos);
+int smithy_effect(struct gameState *state,int player,int handPos);
+int mine_effect(struct gameState *state, int choice1,int choice2,int player,int handPos);
+int minion_effect(struct gameState *state, int choice1, int choice2,int currentPlayer, int handPos);
+
 #endif
