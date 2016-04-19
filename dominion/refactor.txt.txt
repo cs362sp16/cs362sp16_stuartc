@@ -1,0 +1,6 @@
+Within the cardeffect function, there were five cases that were changed in the switch statement. Those cases were for the cards: smithy, village, remodel, mine, and minion.
+The process for refactoring was relatively simple with the first step being to take out the code within the switch statement and insert a function call of the form (CARD_NAME)_effect()
+that was of type int so that the function could be caught if it failed. The next step was to take that code that was previously within the switch statement and now create
+a new version of it that would work within the seperate function. That process was mainly changing variables, while most of the base algorithm could remain intact. 
+The final step in refactoring was to check the return value of the new specific card effect functions and then have the overall "cardeffect" function return either 0 or 1
+within the switch statement. 
