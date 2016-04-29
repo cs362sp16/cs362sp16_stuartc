@@ -1,0 +1,57 @@
+TEST 1 SUCESSFUL COMPLETION
+GCOV AFTER TEST 1
+File 'dominion.c'
+Lines executed:1.77% of 565
+Creating 'dominion.c.gcov'
+
+TEST 2:
+Assertion FAILED: Game should FAIL with a bogus card
+Assertion FAILED: Didn't FAIL with 9 kingdom cards
+GCOV AFTER TEST 2
+File 'dominion.c'
+Lines executed:17.70% of 565
+Creating 'dominion.c.gcov'
+
+TEST 3:
+Assertion FAILED: Did NOT fail from invalid card
+Assertion FAILED: Did NOT fail with INVALID player
+GCOV AFTER TEST 3
+File 'dominion.c'
+Lines executed:19.82% of 565
+Creating 'dominion.c.gcov'
+
+TEST 4:
+Assertion FAILED: endTurn did NOT FAIL with invalid numPlayers
+GCOV AFTER TEST 4
+File 'dominion.c'
+Lines executed:25.31% of 565
+Creating 'dominion.c.gcov'
+
+CARD TEST 1:
+CARD TEST 1 PASS
+GCOV AFTER CARD TEST 1
+File 'dominion.c'
+Lines executed:32.04% of 565
+Creating 'dominion.c.gcov'
+
+CARD TEST 2:
+CARD TEST 2 PASS
+GCOV AFTER CARD TEST 2
+File 'dominion.c'
+Lines executed:35.04% of 565
+Creating 'dominion.c.gcov'
+
+CARD TEST 3:
+Assertion FAILED: fail NOT caught with invalid choice for minion
+GCOV AFTER CARD TEST 3
+File 'dominion.c'
+Lines executed:36.99% of 565
+Creating 'dominion.c.gcov'
+
+CARD TEST 4:
+CARD TEST 4 PASS
+GCOV AFTER CARD TEST 4
+File 'dominion.c'
+Lines executed:38.05% of 565
+Creating 'dominion.c.gcov'
+

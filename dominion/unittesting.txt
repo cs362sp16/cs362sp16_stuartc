@@ -1,0 +1,7 @@
+	Overall, after running the entire suite of function unit tests and card unit tests (that use the API)
+there was 38% code coverage with six bugs detected. While this isn't the most through of testing efforts,
+it was still effective considering the simplicity of designing tests and the effiecieny in creating them. 
+More specifically, all of the unit tests focused in on testing specific aspects of functionality, some of them
+quite critical to a normal playthrough of dominion. At the end of unit testing it is conclusive that a good 
+amount of value can be gleaned from the output results, especially considering the relative ease and 
+efficiency in creating the tests in the first place. 

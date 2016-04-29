@@ -1,0 +1,7 @@
+	After completing the suite of four unit tests there were five different bugs that were found.
+The first two bugs were in the function "initializeGame" and were both related to invalid input into the
+function. The first of the two was that the function didn't catch an invalid card selection in the set of 10
+cards to play with. The second bug was that the function didn't catch that only 9 cards were given in a set, 
+instead of 10. The next two bugs were in "scoreFor" and consisted of the function not failing from invalid card 
+selection and not failing from invalid player selection input. The last bug was in "endTurn" where it continued
+without failing when an invalid number of players was given as input.
