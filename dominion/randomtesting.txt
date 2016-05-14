@@ -1,0 +1,18 @@
+Developement of random testers started off with a tester for the "mine" card. My first approach was to check for as many possibilities as possible, given almost unbounded random inputs. 
+This resulted in 100% coverage of the code for that card, however there were a large amount of errors found that were simply from the input being outside of the parameters that 
+the card should recieve within a normal game. In practice, most of those bad values should be filtered out through other parts of the dominion code. Despite having 100% coverage,
+the tests themselves only took around 30 seconds to run completely.
+
+The next tester was for the "baron" card, which had considerably less input to randomize. This did allow for very high coverage of the code, but since the values that were randomized
+for input were so well within acceptable boundaries there weren't any major bugs foundwith the random tests. 
+
+Due to the adventurer card not taking any inputs, the only thing that could be changed was the seed for initilization so that the card was played with a random state each time.
+This turned out to not be an effective  method of testing in general for this card, since there was one inherit error that didn't add the right amount of treasures causing every
+random test to fail. Regardless of coverage, such an error could've been found much more efficiently with a simple unit test.
+
+Overall, the differences between unit testing and random testing are most clearly seen depending on what is being tested. If it is code with a variety of different input values, then random testing
+is very effective at brute force trying out as many as possible. However, if there is some code less dependent on a variety of inputs, and needs to be a more constant algorithm, then unit testing
+is more efficient at probing out specific areas to test. Random testing was able to uncover a good amount of faults with some cards, and a lot less with other likely due to the aformentioned differences 
+in testing. However, even when random testing found a large amount of faults it was much harder sifting through the results to figure out what was going on, as oppossed to a targeted unit test. Some
+of my unit tests ended up having more coverage than the random tests, but this was likely due to the types of cards being tested (lots of inputs vs. less) as well as the ability to test very specific 
+areas with a unit test, that a random tester may or may not get to eventually.  
