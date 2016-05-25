@@ -1,0 +1,64 @@
+#!/bin/bash
+
+star=$(pwd)
+seed=0
+wrd=0
+diff=0
+
+tmp="./temp$$"
+
+if [ "$#" < "4" ] #not the exact correct input
+then
+   echo "Incorrect format, see ./diffdominion [dir1] [dir2] [seed]"
+   exit 1
+fi
+seed=$3
+
+cp testdominion $1
+cp testdominion $2
+
+cd $1
+make all
+./testdominion $seed >> test1
+cp test1 $star
+#rm test1
+
+cd $star
+
+cd $2
+make all
+./testdominion $seed >> test2
+cp test2 $star
+#rm test2
+
+cd $star
+
+diff --brief test1 test2 | wc -w > $tmp
+
+while read res
+do
+   diff=$res
+done < $tmp
+
+if [ "$diff" = "0" ]
+then 
+   echo "TEST PASSED"
+   exit 0
+else 
+   echo "TEST FAILED"
+   diff -y test1 test2
+fi
+cd $star
+rm temp$$
+rm test1
+rm test2
+cd $1
+rm test1
+cd $star
+cd $2
+rm test2
+
+exit 0
+
+
+

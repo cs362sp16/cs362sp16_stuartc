@@ -1,0 +1,535 @@
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+loop here
+Game initialized, starting to play
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: playCard failed with choices:  4 0 3
+Assertion FAILED: playCard failed with choices:  4 0 3
+Assertion FAILED: playCard failed with choices:  4 0 3
+Assertion FAILED: playCard failed with choices:  4 0 3
+Assertion FAILED: playCard failed with choices:  4 0 3
+Assertion FAILED: playCard failed with choices:  4 0 0
+Assertion FAILED: playCard failed with choices:  4 0 0
+Assertion FAILED: playCard failed with choices:  4 0 0
+Assertion FAILED: playCard failed with choices:  4 0 0
+Assertion FAILED: playCard failed with choices:  4 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: playCard failed with choices:  0 4 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: playCard failed with choices:  0 3 0
+Assertion FAILED: playCard failed with choices:  3 1 1
+Assertion FAILED: playCard failed with choices:  3 1 1
+Assertion FAILED: playCard failed with choices:  3 1 1
+Assertion FAILED: playCard failed with choices:  2 4 1
+Assertion FAILED: playCard failed with choices:  2 4 1
+Assertion FAILED: playCard failed with choices:  2 4 1
+Assertion FAILED: playCard failed with choices:  2 4 1
+Assertion FAILED: playCard failed with choices:  2 4 1
+Assertion FAILED: playCard failed with choices:  0 0 2
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: playCard failed with choices:  1 3 4
+Assertion FAILED: playCard failed with choices:  1 3 4
+Assertion FAILED: playCard failed with choices:  1 3 4
+Assertion FAILED: playCard failed with choices:  1 3 4
+Assertion FAILED: playCard failed with choices:  1 3 4
+Assertion FAILED: playCard failed with choices:  1 4 0
+Assertion FAILED: playCard failed with choices:  1 4 0
+Assertion FAILED: playCard failed with choices:  1 4 0
+Assertion FAILED: playCard failed with choices:  1 4 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: playCard failed with choices:  3 3 2
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: playCard failed with choices:  0 1 4
+Assertion FAILED: playCard failed with choices:  0 1 4
+Assertion FAILED: playCard failed with choices:  0 1 4
+Assertion FAILED: playCard failed with choices:  0 1 4
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: playCard failed with choices:  3 2 0
+Assertion FAILED: playCard failed with choices:  3 2 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: playCard failed with choices:  1 4 2
+Assertion FAILED: playCard failed with choices:  0 0 2
+Assertion FAILED: playCard failed with choices:  0 0 2
+Assertion FAILED: playCard failed with choices:  0 0 2
+Assertion FAILED: playCard failed with choices:  0 0 2
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: playCard failed with choices:  2 0 1
+Assertion FAILED: playCard failed with choices:  2 0 1
+Assertion FAILED: playCard failed with choices:  2 0 1
+Assertion FAILED: playCard failed with choices:  2 0 1
+Assertion FAILED: playCard failed with choices:  2 0 1
+Assertion FAILED: playCard failed with choices:  2 1 3
+Assertion FAILED: playCard failed with choices:  2 1 3
+Assertion FAILED: playCard failed with choices:  2 1 3
+Assertion FAILED: playCard failed with choices:  2 1 3
+Assertion FAILED: playCard failed with choices:  2 1 3
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: playCard failed with choices:  1 0 1
+Assertion FAILED: playCard failed with choices:  1 0 1
+Assertion FAILED: playCard failed with choices:  1 0 1
+Assertion FAILED: playCard failed with choices:  1 0 1
+Assertion FAILED: playCard failed with choices:  1 0 1
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: playCard failed with choices:  2 0 2
+Assertion FAILED: playCard failed with choices:  2 0 2
+Assertion FAILED: playCard failed with choices:  2 0 2
+Assertion FAILED: playCard failed with choices:  2 0 2
+Assertion FAILED: playCard failed with choices:  2 0 2
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: playCard failed with choices:  3 2 4
+Assertion FAILED: playCard failed with choices:  3 2 4
+Assertion FAILED: playCard failed with choices:  3 2 4
+Assertion FAILED: playCard failed with choices:  3 2 4
+Assertion FAILED: playCard failed with choices:  3 2 4
+Assertion FAILED: playCard failed with choices:  3 1 3
+Assertion FAILED: playCard failed with choices:  3 1 3
+Assertion FAILED: playCard failed with choices:  3 1 3
+Assertion FAILED: playCard failed with choices:  3 1 3
+Assertion FAILED: playCard failed with choices:  3 1 3
+Assertion FAILED: playCard failed with choices:  1 2 3
+Assertion FAILED: playCard failed with choices:  1 2 3
+Assertion FAILED: playCard failed with choices:  1 2 3
+Assertion FAILED: playCard failed with choices:  1 2 3
+Assertion FAILED: playCard failed with choices:  1 2 3
+Assertion FAILED: playCard failed with choices:  1 4 3
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: playCard failed with choices:  2 4 0
+Assertion FAILED: playCard failed with choices:  2 4 0
+Assertion FAILED: playCard failed with choices:  2 4 0
+Assertion FAILED: playCard failed with choices:  2 4 0
+Assertion FAILED: playCard failed with choices:  2 4 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  0 1 3
+Assertion FAILED: playCard failed with choices:  0 2 3
+Assertion FAILED: playCard failed with choices:  0 2 3
+Assertion FAILED: playCard failed with choices:  0 2 3
+Assertion FAILED: playCard failed with choices:  0 2 3
+Assertion FAILED: playCard failed with choices:  0 2 3
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: playCard failed with choices:  2 0 3
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: playCard failed with choices:  2 4 4
+Assertion FAILED: playCard failed with choices:  2 4 4
+Assertion FAILED: playCard failed with choices:  2 4 4
+Assertion FAILED: playCard failed with choices:  2 4 2
+Assertion FAILED: playCard failed with choices:  2 4 2
+Assertion FAILED: playCard failed with choices:  2 4 2
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: playCard failed with choices:  4 3 0
+Assertion FAILED: playCard failed with choices:  4 3 2
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: playCard failed with choices:  0 0 0
+Assertion FAILED: playCard failed with choices:  0 0 0
+Assertion FAILED: playCard failed with choices:  0 0 0
+Assertion FAILED: playCard failed with choices:  0 0 0
+Assertion FAILED: playCard failed with choices:  3 3 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: playCard failed with choices:  2 1 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: playCard failed with choices:  2 2 0
+Assertion FAILED: playCard failed with choices:  2 2 0
+Assertion FAILED: playCard failed with choices:  2 2 0
+Assertion FAILED: playCard failed with choices:  2 2 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: playCard failed with choices:  4 1 3
+Assertion FAILED: playCard failed with choices:  4 1 3
+Assertion FAILED: playCard failed with choices:  4 1 3
+Assertion FAILED: playCard failed with choices:  4 1 3
+Assertion FAILED: playCard failed with choices:  4 1 3
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: playCard failed with choices:  1 1 1
+Assertion FAILED: playCard failed with choices:  1 1 1
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: playCard failed with choices:  3 4 3
+Assertion FAILED: playCard failed with choices:  3 4 3
+Assertion FAILED: playCard failed with choices:  3 4 3
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: playCard failed with choices:  4 4 3
+Assertion FAILED: playCard failed with choices:  4 4 3
+Assertion FAILED: playCard failed with choices:  4 4 3
+Assertion FAILED: playCard failed with choices:  4 4 3
+Assertion FAILED: playCard failed with choices:  4 4 3
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: playCard failed with choices:  3 0 0
+Assertion FAILED: playCard failed with choices:  3 0 0
+Assertion FAILED: playCard failed with choices:  3 0 0
+Assertion FAILED: playCard failed with choices:  3 0 0
+Assertion FAILED: playCard failed with choices:  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: playCard failed with choices:  3 1 0
+Assertion FAILED: playCard failed with choices:  3 1 0
+Assertion FAILED: playCard failed with choices:  3 1 0
+Assertion FAILED: playCard failed with choices:  4 1 0
+Assertion FAILED: playCard failed with choices:  1 2 1
+Assertion FAILED: playCard failed with choices:  1 2 1
+Assertion FAILED: playCard failed with choices:  1 2 1
+Assertion FAILED: playCard failed with choices:  1 2 1
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: playCard failed with choices:  4 2 4
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: playCard failed with choices:  1 1 0
+Assertion FAILED: playCard failed with choices:  1 1 2
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: playCard failed with choices:  3 1 1
+Assertion FAILED: playCard failed with choices:  3 1 1
+Assertion FAILED: playCard failed with choices:  3 1 1
+Assertion FAILED: playCard failed with choices:  3 1 1
+Assertion FAILED: playCard failed with choices:  3 1 1
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: playCard failed with choices:  0 4 1
+Assertion FAILED: playCard failed with choices:  0 4 1
+Assertion FAILED: playCard failed with choices:  0 4 1
+Assertion FAILED: playCard failed with choices:  0 4 1
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: playCard failed with choices:  2 1 1
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: playCard failed with choices:  1 3 1
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: playCard failed with choices:  1 1 4
+Assertion FAILED: playCard failed with choices:  1 1 4
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: playCard failed with choices:  0 3 1
+Assertion FAILED: playCard failed with choices:  0 3 1
+Assertion FAILED: playCard failed with choices:  0 3 1
+Assertion FAILED: playCard failed with choices:  0 3 1
+Assertion FAILED: playCard failed with choices:  0 3 1
+Assertion FAILED: playCard failed with choices:  0 2 1
+Assertion FAILED: playCard failed with choices:  0 2 1
+Assertion FAILED: playCard failed with choices:  0 2 1
+Assertion FAILED: playCard failed with choices:  0 2 1
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: playCard failed with choices:  0 1 1
+Assertion FAILED: playCard failed with choices:  0 1 1
+Assertion FAILED: playCard failed with choices:  0 1 1
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  2 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  5 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  24 0 0
+Assertion FAILED: playCard failed with choices:  1 3 2
+Assertion FAILED: playCard failed with choices:  1 3 2
+Assertion FAILED: playCard failed with choices:  1 3 2
+Assertion FAILED: playCard failed with choices:  1 3 2
+Assertion FAILED: playCard failed with choices:  1 3 2
+Assertion FAILED: playCard failed with choices:  0 3 3
+Assertion FAILED: playCard failed with choices:  0 3 3
+Assertion FAILED: playCard failed with choices:  3 0 0
+Assertion FAILED: playCard failed with choices:  3 0 0
+Assertion FAILED: playCard failed with choices:  3 0 0
+Assertion FAILED: playCard failed with choices:  4 0 2
+Assertion FAILED: playCard failed with choices:  4 0 2
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  8 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  6 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  13 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  25 0 0
+Assertion FAILED: playCard failed with choices:  1 4 0
+Assertion FAILED: playCard failed with choices:  1 4 0
+Assertion FAILED: playCard failed with choices:  1 4 0
+Assertion FAILED: playCard failed with choices:  1 4 0
+Assertion FAILED: playCard failed with choices:  1 4 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  7 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  3 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  11 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  26 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  23 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  1 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  15 0 0
+Assertion FAILED: buyCard failed with card choice(first number)=  10 0 0
+Assertion FAILED: playCard failed with choices:  3 0 2
+File 'dominion.c'
+Lines executed:56.08% of 567
+Creating 'dominion.c.gcov'
+

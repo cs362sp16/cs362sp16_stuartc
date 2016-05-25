@@ -61,7 +61,7 @@ struct gameState {
   int whoseTurn;
   int phase;
   int numActions; /* Starts at 1 each turn */
-  int coins; /* Use as you see fit! */
+  int coins; // Use as you see fit!  <--Lies! This is in active use  
   int numBuys; /* Starts at 1 each turn */
   int hand[MAX_PLAYERS][MAX_HAND];
   int handCount[MAX_PLAYERS];

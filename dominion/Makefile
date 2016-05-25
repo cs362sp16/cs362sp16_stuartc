@@ -48,6 +48,8 @@ randomtestcard2: randomtestcard2.c dominion.o
 randomtestadventurer: randomtestadventurer.c dominion.o
 	gcc -o randomtestadventurer randomtestadventurer.c -g dominion.o rngs.o $(CFLAGS)
 
+testdominion: testdominion.c dominion.o
+	gcc -o testdominion testdominion.c -g dominion.o rngs.o $(CFLAGS)
 
 unittestresults.out: unittest1.c unittest2.c unittest3.c unittest4.c cardtest1.c cardtest2.c cardtest3.c cardtest4.c dominion.o
 	./unittest1 >> unittestresults.out
@@ -102,7 +104,12 @@ unittestresults.out: unittest1.c unittest2.c unittest3.c unittest4.c cardtest1.c
 	echo "GCOV AFTER CARD TEST 4" >> unittestresults.out
 	gcov dominion.c >> unittestresults.out
 
-all: playdom player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4
+testdominion.out: testdominion.c dominion.o
+	./testdominion 42 >> testdominion.out
+	echo "GCOV after testdominion"
+	gcov dominion.c >> testdominion.out
+
+all: playdom player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 testdominion
 
 rdm: playdom player randomtestcard1 randomtestcard2 randomtestadventurer
 	./randomtestcard1 42 > randomtestcard1.out

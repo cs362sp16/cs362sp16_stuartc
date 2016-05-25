@@ -1,0 +1,7 @@
+After running my diffdominion bash script comparing the testdominion results between my dominion.c and another classmates, I finally found a version of dominon that my tester ran differently.
+The difference ended up being in different errors that were caught in different areas. This process reinforces some of the difficulties of differential testing with a project of this size.
+Ideally, differential testing would be done with a known "correct" program versus the one that is being tested, and this can usually be done only with smaller code segments. For dominion
+there isn't really a "correct" version so all differential testing efforts are just done comparing between a version that works slightly differently than another (sometimes better sometimes worse).
+The code coverage of this testing was quite high though, over 60%, which even if there was no "correct" version of dominion, there was still a lot of code that was covered and tested in two different
+implementations. The differences in coverage between implimentations can indicate a version of dominion that is "worse" and may have bugs that prevent some code from ever running, but this isn't 
+always the case.
