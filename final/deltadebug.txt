@@ -1,0 +1,11 @@
+Considering the complicated function calls involved with dominion, delta debugging seemed like an optimal 
+solution to minimizinig test cases to easily see find more complicated bugs. The process started by first
+setting up the delta debugging enviornment, and then creating two programs that were similar to my dominion
+random testing player. The first one went through and played some random cards until it found a few examples
+of playCard calls that failed. The second accepted an input that would go into a playCard function call, and 
+both of these would start with the same initialized game state by using the same seed. The setup of having two
+functions, one that found failing calls, and another that took calls as inputs allowed for the deltas to be 
+identified as what the function called since the second function would pass when no input was submitted. After this
+setup, delta debugging still didn't quite yield helpful results. This was likely due to the function calls within 
+dominion being highly dependent on the entire game state. Delta debugging in this context would have likely been
+more helpful combined with a more focused testing approach, similar to unit tests but using more input.

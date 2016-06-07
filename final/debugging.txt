@@ -1,0 +1,7 @@
+One bug that was fixed within dominion was the minion card effect not catching invalid input for a choice. At first this seemed like there was a simple lack of an "if" statement
+that would verify the input, however further investigation yielded a larger overall problem with the code as a whole. First I used gdb to step through the code where the effect
+for the minion card was. While changing multiple different input variables and running the function, I still recieved the same undesirable outcome that the previous bad input
+was giving. In fact, the second choice could never be chosen since the logical statements examined two inputs, one of which wasn't used. This was again varified by making
+a small test program to compare the results with and it too showed the pretty clear logical problems with the inital input checking if statements. Overall, this problem was
+mainly found by examining the source code, but then also throughly verified with a graphical debugger and some simple differential testing with a smaller, more correct, test
+function. 

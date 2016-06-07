@@ -1,0 +1,17 @@
+Bug 1: Dominion Initialization not catching invalid input values
+The initilization for a game of dominion didn't catch an invalid number of kingdom cards, or invalid players
+selected such as -2 players. If game is taking in user input for determining the type of initialization then 
+invalid input that is uncaught could result in an invalid game state later, not to mention a simply incorrect
+version of dominion being played.
+
+Bug 2:Random playing of entire game of dominion results in almost only negative scores
+While this bug may be vague in scope, it still suggests some interesting invalid behavior within the scoring
+of an entire game of dominion. There could be an issue within the scoreFor function not counting everything 
+correctly, which would be easier to find. The harder fault to find from this observed bug would be if the game
+in general was weighted much heavier for curses resulting in more negative scores, where as a real game would
+have considerable trouble ending with a player in the negative region.
+
+Bug 3: Specific card "minion" has an implementation that doesn't catch invalid choices
+The minion card's implementation doesn't correctly check for a choice that is out of bounds. There should only
+be two choices for playing minion, but a choice of "3" causes it to return 0 where it should have caught that
+as an error and returned -1. 
